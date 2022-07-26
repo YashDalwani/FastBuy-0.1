@@ -101,4 +101,13 @@
     });
     
 })(jQuery);
-
+var addtocart = document.getElementsByClassName("btn btn-primary px-3")
+for(var i=0;i<addtocart.length;i++){
+    var button1=addtocart[i]
+    button1.addEventListener('click',addtocartclicked)
+}
+function addtocartclicked(event){
+    var button1 = event.target
+    var title ="Camera"
+    console.log(title)
+}
