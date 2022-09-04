@@ -2,7 +2,7 @@
 E Commerce Website which provides recommendations using Machine Learning and Artificial Intelligence.
 
 This project helped me and my team to win the thrid price in the Need for Code Hackathon organised by TSEC CodeTantra.
-We were the only team selected under the AI/ML domain in the winners list.
+We ranked first under our domain ie AI/ML and third in the overall hackathon.
 
 NOTE:-
 
